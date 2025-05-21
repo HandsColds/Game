@@ -1,2 +1,2 @@
-# Game
+# RPG Game
 individual game development
